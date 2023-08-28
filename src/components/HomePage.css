@@ -1,0 +1,49 @@
+.Homepage_space {
+  margin-top: 40px;
+  margin-bottom: 8%;
+}
+.input_space {
+  margin-top: 2%;
+}
+.home-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-image: url("C:\Users\91900\attendance-management-system\src\components\Attendance.png");
+  background-size: 1450px;
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-position-y: center;
+  background-size: cover;
+  height: 100vh;
+  background-color: #e4e1e1;
+}
+
+input[type="text"] {
+  padding: 10px;
+  margin: 5px;
+  border: none;
+  border-radius: 8px;
+  background-color: #3c3c3c;
+  color: white;
+  font-size: 16px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 16px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  box-shadow: 0px 0px 10px rgba(129, 116, 128, 0.4);
+  transition: background-color 0.3s, box-shadow 0.3s;
+}
+
+button:hover {
+  background-color: #0056b3;
+  box-shadow: 0px 0px 15px rgba(20, 40, 61, 0.7);
+}
