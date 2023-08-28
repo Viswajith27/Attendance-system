@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Attendance-system/static/css/main.7714eab3.css",
+    "main.js": "/Attendance-system/static/js/main.9377ef5c.js",
+    "static/js/787.da59d243.chunk.js": "/Attendance-system/static/js/787.da59d243.chunk.js",
+    "static/media/Attendance.png": "/Attendance-system/static/media/Attendance.5768f71dfc4f1a50e166.png",
+    "index.html": "/Attendance-system/index.html",
+    "main.7714eab3.css.map": "/Attendance-system/static/css/main.7714eab3.css.map",
+    "main.9377ef5c.js.map": "/Attendance-system/static/js/main.9377ef5c.js.map",
+    "787.da59d243.chunk.js.map": "/Attendance-system/static/js/787.da59d243.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7714eab3.css",
+    "static/js/main.9377ef5c.js"
+  ]
+}
